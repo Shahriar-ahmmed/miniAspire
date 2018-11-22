@@ -1,7 +1,7 @@
 
 ## About MiniAspire
 
- simple API that allows to handle user loans. Necessary entities : users, loans, and repayments.
+ simple API using Laravel framework that allows to handle user loans. Necessary entities : users, loans, and repayments.
 
 creating a new client user with different attributes('name','email', 'phone','address'),
 
